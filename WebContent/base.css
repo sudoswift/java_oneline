@@ -1,0 +1,43 @@
+@charset "UTF-8";
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+svg {
+    color: black;
+    text-decoration: none;
+}
+#git_link{
+    text-align: center;
+    font-size:large;
+    font-family: 'Poor Story', cursive;
+}
+#header{
+    text-align: center; 
+    margin:2rem 0rem 3rem 0rem; 
+    padding:3rem; 
+    background-color:aliceblue;
+    font-family: 'Poor Story', cursive;
+}
+.form-control{
+    resize:none;
+}
+ul{
+    list-style:none;
+    line-height: 4rem;
+}
+#memoed_list{
+    margin-left:25rem; 
+    margin-right:25rem; 
+    margin-top:2rem; 
+    background-color:aliceblue; 
+    color: black;
+}
