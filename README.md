@@ -1,2 +1,2 @@
 # :bulb: Java oneline
-java oneline project!
+java oneline project tast
